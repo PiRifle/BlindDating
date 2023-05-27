@@ -1,0 +1,936 @@
+[
+  {
+    "data": [
+      {
+        "value": "Antyki i starocie",
+        "label": "Antyki i starocie – dla fanów targów oraz internetowych aukcji i tajemnic zaklętych w przedmiotach."
+      },
+      {
+        "value": "Autografy",
+        "label": "Autografy – jak podpisywał się Kopernik, a jak Robert Lewandowski? Kolekcje podpisów nie tylko na papierze."
+      },
+      {
+        "value": "Filatelistyka",
+        "label": "Filatelistyka – czyli znaczki pocztowe z najdalszych krańców świata i/lub z przeszłości."
+      },
+      {
+        "value": "Filokartystyka",
+        "label": "Filokartystyka – Brytyjczyk Mario Morby posiada w swej kolekcji ponad 1 000 000 pocztówek."
+      },
+      {
+        "value": "Filumenistyka",
+        "label": "Filumenistyka – zbieranie pudełek i etykiet z zapałek. Muzeum Filumenistyczne działa w Bystrzycy Kłodzkiej."
+      },
+      {
+        "value": "Genealogia",
+        "label": "Genealogia – czyli chęć poznania przeszłości rodu. Może Twój praprapradziadek był jakimś ważnym wodzem 😉"
+      },
+      {
+        "value": "Historia lokalna",
+        "label": "Historia lokalna – wielkie historie z małych miasteczek, ulic i osad – docieranie do źródeł i rozmowy z seniorami."
+      },
+      {
+        "value": "Magnesy",
+        "label": "Magnesy – nie tylko przywiezione z Chorwacji i nie tylko przyczepione na lodówce."
+      },
+      {
+        "value": "Memorabilia",
+        "label": "Memorabilia – mieć np. w swej kolekcji ten półmetrowy długopis, którym Wałęsa podpisał porozumienia sierpniowe."
+      },
+      {
+        "value": "Militaria",
+        "label": "Militaria – czasem to będzie drobny fragment karabinu Kałasznikow, a czasem wiekowy sztylet o wdzięcznej nazwie mizerykordia (miłosierdzie)."
+      },
+      {
+        "value": "Modele (zbieranie)",
+        "label": "Modele (zbieranie) – choćby modele historycznych pojazdów lub takie, które zostały dawno temu wyprodukowane, np. model Batmobila stworzony w latach 50."
+      },
+      {
+        "value": "Nagrania dźwiękowe",
+        "label": "Nagrania dźwiękowe – kolekcje płyt winylowych, pocztówek dźwiękowych, kaset i nagrań, które bardzo trzeszczą."
+      },
+      {
+        "value": "Numizmatyka",
+        "label": "Numizmatyka – 1 grosz z XIV wieku może być teraz wart kilkaset, a może i tysiące złotych?"
+      },
+      {
+        "value": "Osobliwości",
+        "label": "Osobliwości – czyli budowanie własnego gabinetu dziwactw, w którym mogą się znaleźć szczotki do włosów z Kambodży obok zębów mlecznych mamuta i ryby z dwoma paszczami w formalinie."
+      },
+      {
+        "value": "Rekonstrukcje historyczne",
+        "label": "Rekonstrukcje historyczne – odtwarzanie wydarzeń z przeszłości. Załóżmy mundury i na Berlin!"
+      },
+      {
+        "value": "Ubiory (historia mody)",
+        "label": "Ubiory (historia mody) – z innych czasów, kultur, miejsc."
+      },
+      {
+        "value": "Weksylologia",
+        "label": "Weksylologia – wiedza o flagach (chorągwiach). Hobby, które możecie kojarzyć z serialu “Big Bang Theory”."
+      }
+    ],
+    "theme": "Historia i skarby w szufladzie"
+  },
+  {
+    "data": [
+      {
+        "value": "Alkohole (piwo, wino, nalewki, likiery itp.)",
+        "label": "Alkohole (piwo, wino, nalewki, likiery itp.) – produkcja domowych specyfików alkoholowych kwitła kiedyś i kwitnie nadal. Znajomość chemii, fizyki oraz wiedzy o drożdżach bardzo się przydaje."
+      },
+      {
+        "value": "Cukiernictwo",
+        "label": "Cukiernictwo – czyli słodkości, od tortów wyglądających jak stadion Wembley w Londynie, po mini babeczki z orzeszkiem po środku. Popularnym hobby jest też dekorowanie tortów – smak może nie zawsze cudowny, za to wygląda spektakularnie. Dla uzupełnienia wiedzy, nasz tekst: Krótko i węzłowato. Syrop glukozowo-fruktozowy."
+      },
+      {
+        "value": "Czekolada domowa",
+        "label": "Czekolada domowa – czyli sztuka powstrzymywania się (choć przez chwilę) od zjedzenia czegoś, co jeszcze nie jest gotowe, a już pachnie zachwycająco i wprawia kubki smakowe w stan oszołomienia."
+      },
+      {
+        "value": "Gotowanie (pieczenie, smażenie itd.)",
+        "label": "Gotowanie (pieczenie, smażenie itd.) – smacznych (muszą być), zdrowych (nie zawsze) i różnorodnych potraw. Na parze, w piekarniku, na zimno, pikantnie…"
+      },
+      {
+        "value": "Grillowanie",
+        "label": "Grillowanie – czyli mięsa i warzywa nad ogniem. Nie tylko polski sposób i nie tylko na letnie wieczory."
+      },
+      {
+        "value": "Kawa i herbata",
+        "label": "Kawa i herbata – własne mieszanki, mnóstwo sposobów parzenia. I te wspaniałe zapachy 🙂"
+      },
+      {
+        "value": "Kuchnie świata",
+        "label": "Kuchnie świata – Najlepsza jest kuchnia tajska! O nie, włoska! Skąd znowu, tylko potrawy z Burkina Faso… 😉"
+      },
+      {
+        "value": "Mięsa (wędliniarstwo, masarstwo)",
+        "label": "Mięsa (wędliniarstwo, masarstwo) – domowy wyrób kiełbasy, peklowanie szynki, wędzenie boczku i wiele, wiele innych możliwości."
+      },
+      {
+        "value": "Pieczenie chleba",
+        "label": "Pieczenie chleba – ostatnio z wielkim przytupem wróciło do łask – poświeciliśmy mu nawet osobny artykuł."
+      },
+      {
+        "value": "Przetwory",
+        "label": "Przetwory – marynaty, słodkości, słoiki i butelki. Półki pełne pikli, suszonych pomidorów, solonego koperku i konfitury z płatków róży."
+      },
+      {
+        "value": "Serowarstwo",
+        "label": "Serowarstwo – owczy, krowi, kozi, a może ser dojrzewający lub wędzony? W domu można zrobić wiele rodzajów tego smakołyku."
+      }
+    ],
+    "theme": "Smaki i zapasy (na później)"
+  },
+  {
+    "data": [
+      {
+        "value": "Biżuteria/jubilerstwo",
+        "label": "Biżuteria/jubilerstwo – od skręconych w przemyślny sposób sznureczków po kolie brylantów; od kolczyków-olbrzymów, które rozciągają uszy po precjoza tak delikatne, że ledwo widoczne."
+      },
+      {
+        "value": "Ceramika (także z innych mas niż tradycyjna glina)– ugniatanie gliny, jej kształtowanie i kolorowanie ma swój medytacyjny wymiar.",
+        "label": "Ceramika (także z innych mas niż tradycyjna glina)– ugniatanie gliny, jej kształtowanie i kolorowanie ma swój medytacyjny wymiar."
+      },
+      {
+        "value": "Decoupage i scrapbooking",
+        "label": "Decoupage i scrapbooking – ozdabianie przedmiotów oraz papieru (kartek, okładek) – działanie na wzrok i dotyk."
+      },
+      {
+        "value": "Drzeworyt (miedzioryt, linoryt, akwaforta)",
+        "label": "Drzeworyt (miedzioryt, linoryt, akwaforta) – czyli techniki graficzne polegające na przygotowaniu matrycy (jej wydrążeniu, wytrawieniu, wypaleniu) i odbiciu z niej ilustracji."
+      },
+      {
+        "value": "Dzierganie (szydełkowanie, haftowanie, robienie na drutach)",
+        "label": "Dzierganie (szydełkowanie, haftowanie, robienie na drutach) – tworzenie przedmiotów oraz dekoracji za pomocą nitkowych (włóczkowych) pętelek, splotów i zawijasów."
+      },
+      {
+        "value": "Farbowanie (malowanie) tkanin",
+        "label": "Farbowanie (malowanie) tkanin – czyli jak z białego podkoszulka zrobić kwitnącą łąkę lub pejzaż z górskimi wilkami. Krótka podpowiedź na naszym YT."
+      },
+      {
+        "value": "Filcowanie",
+        "label": "Filcowanie – na sucho lub na mokro, po to aby z wełny otrzymać zwartą masę, doskonałą do robienia ozdób."
+      },
+      {
+        "value": "Grawerowanie",
+        "label": "Grawerowanie – rycie w różnych materiałach, najczęściej metalu. Kiedyś popularne rzemiosło użytkowe (np. czcionki do drukarni, tabliczki, pieczęcie)."
+      },
+      {
+        "value": "Kaligrafia",
+        "label": "Kaligrafia – piękny i/lub fantazyjny styl pisania. Na Dalekim Wschodzie jedna z najznamienitszych sztuk."
+      },
+      {
+        "value": "Knifemaking",
+        "label": "Knifemaking – czyli zajęcie dla nożorobów, poczynając od ostrza po gustowną oprawę noża."
+      },
+      {
+        "value": "Kolaże (wyklejanie)",
+        "label": "Kolaże (wyklejanie) – przez “ż”, bo to nie fani twardego siodełka, ale ilustracje stworzone przez wyklejanie fragmentów gazet, grafik i innych papierowych detali. Jedno z hobby Wisławy Szymborskiej. O kolażach w kontekście nauki – klik!"
+      },
+      {
+        "value": "Koronczarstwo",
+        "label": "Koronczarstwo – podobnie do makram, przeplatanie bawełnianych lub lnianych nici. Efektem plecenia jest ażurowy materiał o fantazyjnych wzorach i niewątpliwym uroku."
+      },
+      {
+        "value": "Kowalstwo",
+        "label": "Kowalstwo – ogień, metal, uderzenia młota. Hobby mitologiczne."
+      },
+      {
+        "value": "Lalki (wykonanie)",
+        "label": "Lalki (wykonanie) – wielu z nas wciąż pamięta cudownych, szmacianych przyjaciół z dzieciństwa."
+      },
+      {
+        "value": "Latawce",
+        "label": "Latawce – własne latające konstrukcje. Byle sznurek się nie urwał!"
+      },
+      {
+        "value": "Majsterkowanie",
+        "label": "Majsterkowanie – pojemne pojęcie, często kojarzone z tworzeniem przedmiotów, naprawą, sztuką użytkową. Dla niektórych polega na wykorzystaniu różnych wihajstrów, po to by dinksy spasowały do ustrojstwa 😉"
+      },
+      {
+        "value": "Makramy",
+        "label": "Makramy – bierzemy sznurek i go wiążemy, przeplatamy, zaciskamy i oto… kwietnik lub torebka zrobione. Zerknijcie: jak zrobić makramowy kwietnik?"
+      },
+      {
+        "value": "Malowanie",
+        "label": "Malowanie – pędzel, farby, sztalugi, czyli jak zostać Rembrandtem lub choćby Matejką."
+      },
+      {
+        "value": "Modelarstwo (także tworzenie dioram, statków w butelce, pociągów itp.)",
+        "label": "Modelarstwo (także tworzenie dioram, statków w butelce, pociągów itp.) – odwzorowanie modeli, scenografii, postaci. Ważna dbałość o każdy detal, każdy guzik, każdy kolor."
+      },
+      {
+        "value": "Origami (i kirigami)",
+        "label": "Origami (i kirigami) – jak złożyć kartkę, by wyszedł z tego motyl lub brontozaur. Kirigami = składanie + nacinanie nożyczkami."
+      },
+      {
+        "value": "Papier mâché",
+        "label": "Papier mâché – to masa ze skrawków papieru i różnych dodatków (np. kleju). Można się upaprać, ale i stworzyć fantastyczne figury, lalki, ozdoby."
+      },
+      {
+        "value": "Projektowanie wnętrz",
+        "label": "Projektowanie wnętrz – istotna sprawa – mieszkać/pracować w miejscu, które będzie przyjazne. Więcej w tym hobby głowy i wyobraźni niż sprawnych manipulacji rękami."
+      },
+      {
+        "value": "Reperowanie",
+        "label": "Reperowanie – jak sprawić by buty jeszcze trochę pochodziły, a stolik wciąż się nie chwiał?"
+      },
+      {
+        "value": "Rusznikarstwo",
+        "label": "Rusznikarstwo – wyrób i naprawa broni palnej, czasem bardzo cennych zabytków historycznych."
+      },
+      {
+        "value": "Rysowanie",
+        "label": "Rysowanie – subtelny kontur, charakterystyczna kreska, wyraziste cieniowanie – ołówkiem, węglem, kredkami."
+      },
+      {
+        "value": "Rzeźbienie",
+        "label": "Rzeźbienie – materiałem do tworzenia przestrzennych kompozycji może być wszystko co daje się kształtować – drewno, kamień, ale także lód lub olbrzymia dynia."
+      },
+      {
+        "value": "Spawanie",
+        "label": "Spawanie – nie kojarzy się “artystycznie” i to jest błąd. Topiąc i zestalając dwa materiały (głównie metale) można tworzyć niesamowite konstrukcje."
+      },
+      {
+        "value": "Stemple (pieczątki)",
+        "label": "Stemple (pieczątki) – kiedyś robiliśmy stemple z ziemniaków, nie były jednak zbyt trwałe. Lepszym materiałem jest np. guma."
+      },
+      {
+        "value": "Szkło (dmuchanie)",
+        "label": "Szkło (dmuchanie) – temperatura, lepkie, roztopione szkło, długa rurka (tzw. piszczel) przy ustach oraz szeregprawie magicznych ruchów i dmuchnięć. Czary:)"
+      },
+      {
+        "value": "Szycie (krawiectwo)",
+        "label": "Szycie (krawiectwo) – tworzenie ubrań: pięknych i wygodnych."
+      },
+      {
+        "value": "Tapicerstwo",
+        "label": "Tapicerstwo – wyściełanie materiałem nie tylko mebli, ale np. też wnętrz samochodów"
+      },
+      {
+        "value": "Tatuaże",
+        "label": "Tatuaże – kiedyś uważane za patologię, teraz dzieła rysowników na skórze śmiało rozgościły się na salonach."
+      },
+      {
+        "value": "Tkanie",
+        "label": "Tkanie – rękodzieło sięgające kilku tysięcy lat, którego celem jest stworzenie tkaniny z włókien roślinnych (np. lnu), zwierzęcych (np. wełna) lub syntetycznych."
+      },
+      {
+        "value": "Wikliniarstwo (także plecionkarstwo)",
+        "label": "Wikliniarstwo (także plecionkarstwo) – splatanie pędów wierzby (wikliny), tak by otrzymać przeróżne przedmioty, od koszyczków po płoty. Zbliżonym hobby jest plecionkarstwo, w którym wykorzystuje się słomę, trawy, włókna bambusa itp."
+      },
+      {
+        "value": "Witraże",
+        "label": "Witraże – obrazy z połączonych fragmentów kolorowego szkła, przez które przenika światło. Robi wrażenie nie tylko w gotyckich katedrach!"
+      }
+    ],
+    "theme": "Sprawne ręce, pomysłowa głowa"
+  },
+  {
+    "data": [
+      {
+        "value": "Drony",
+        "label": "Drony – oglądanie (a może podglądanie) świata z góry, czasem ze zbytnim skupieniem na życiu sąsiadów 😉"
+      },
+      {
+        "value": "Druk 3D",
+        "label": "Druk 3D – czy już niedługo będziemy sobie sami powszechnie drukowali sztućce, fotele i nowe nosy?"
+      },
+      {
+        "value": "Grafika komputerowa (także animacja/modelowanie 3D)",
+        "label": "Grafika komputerowa (także animacja/modelowanie 3D) – coś znacznie, znacznie bardziej zaawansowanego niż tworzenie animowanych gifów i obrazkowych memów do internetu."
+      },
+      {
+        "value": "Gry komputerowe (gaming)",
+        "label": "Gry komputerowe (gaming) – Chris Cook z angielskiego Birmingham grał w grę FIFA nieprzerwanie przez 48 godzin i 49 minut (Księga Rekordów Guinessa)."
+      },
+      {
+        "value": "Elektronika",
+        "label": "Elektronika – układy scalone, tranzystory, przełączniki, wyświetlacze, cewki, kondensatory, lampy, diody i lutownice to ulubieni przyjaciele każdego elektronika."
+      },
+      {
+        "value": "Filmy (kręcenie i montaż)",
+        "label": "Filmy (kręcenie i montaż) – teraz każdy może być reżyserem, scenarzystą i odtwórcą głównej roli."
+      },
+      {
+        "value": "Fotografia",
+        "label": "Fotografia – momenty utrwalone światłem."
+      },
+      {
+        "value": "Komórki (smartfony itp.)",
+        "label": "Komórki (smartfony itp.) – funkcje, problemy, rozbudowa; modele flagowe, standardowe i specjalistyczne. Telefon komórkowy to w końcu jedna z najważniejszych protez współczesnego człowieka, prawie jak jego biologiczny organ."
+      },
+      {
+        "value": "Komputery",
+        "label": "Komputery – składanie, naprawianie, sprawdzanie czy działa oraz czy jest wystarczająco szybki i pojemny 🙂"
+      },
+      {
+        "value": "Krótkofalarstwo",
+        "label": "Krótkofalarstwo – porozumiewanie się z wykorzystaniem fal radiowych, niekoniecznie w celu ustalenia, gdzie łapie policja. Zobaczcie: Nauka&hobby: co w radiu piszczy, czyli wprowadzenie do radia amatorskiego"
+      },
+      {
+        "value": "Motoryzacja (samochody, motocykle",
+        "label": "Motoryzacja (samochody, motocykle – konstrukcje, przeróbki itp.) – paliwo w baku, silnik turkocze miarowo, coś jeszcze można podkręcić, coś zmienić, dodać, uzupełnić, dopieścić…"
+      },
+      {
+        "value": "Obserwacje mikroskopowe/teleskopowe",
+        "label": "Obserwacje mikroskopowe/teleskopowe – podpatrywanie świata tak małego lub tak odległego, że wydaje się niewidzialny."
+      },
+      {
+        "value": "Pirotechnika",
+        "label": "Pirotechnika – receptury sztucznych ogni i pokazy fajerwerków. Zajęcie obarczone dużym ryzykiem."
+      },
+      {
+        "value": "Programowanie– czyli jak powiedzieć komputerowi, by w odpowiedniej chwili wysłał wiadomość, nagrał muzykę lub strzelił wirtualnego gola.",
+        "label": "Programowanie– czyli jak powiedzieć komputerowi, by w odpowiedniej chwili wysłał wiadomość, nagrał muzykę lub strzelił wirtualnego gola."
+      },
+      {
+        "value": "Radio internetowe",
+        "label": "Radio internetowe – każdy może być radiowym spikerem i dj-em"
+      },
+      {
+        "value": "Robotyka",
+        "label": "Robotyka – konstruowanie urządzeń, które zrobią za nas robotę (albo chociaż będą fajne)."
+      },
+      {
+        "value": "Studio nagrań (realizacja dźwięku)",
+        "label": "Studio nagrań (realizacja dźwięku) – jak nagrać ciszę by brzmiała?"
+      },
+      {
+        "value": "Testy i recenzje sprzętu",
+        "label": "Testy i recenzje sprzętu – od telefonów z minionego wieku po najnowszego smartwatcha – wszystko można przetestować i polecić (lub odradzić)."
+      }
+    ],
+    "theme": "Z użyciem klawiatury lub silnika"
+  },
+  {
+    "data": [
+      {
+        "value": "Domino",
+        "label": "Domino – jak w domino nazywa się puste pole? Nie wiecie? Nazywa się “mydło”. Domino wykorzystuje się też do budowania rozległych konstrukcji, które potem przewracają się po pchnięciu pierwszej kostki."
+      },
+      {
+        "value": "Escape room (pokój ucieczki lub zagadek)",
+        "label": "Escape room (pokój ucieczki lub zagadek) – rozwiązujemy zadania, by wydostać się z pułapki. Intensywne emocje zapewnione."
+      },
+      {
+        "value": "Gry karciane",
+        "label": "Gry karciane – piki, trefle, karo oraz kiery w odmianie klasycznej i tysiące innych wersji rozgrywek, do których potrzebne są odpowiednio oznaczone i zilustrowane kartoniki."
+      },
+      {
+        "value": "Gry miejskie",
+        "label": "Gry miejskie – kiedyś na podwórkach i uliczkach królowały podchody (strzałki rysowane kredą). Obecnie w mieście, które jest planszą, można bawić się w rozgrywki tematyczne np. związane z historią lub literaturą."
+      },
+      {
+        "value": "Gry planszowe",
+        "label": "Gry planszowe – “…a teraz przejmuję Twojego rycerza i buduję osadę”."
+      },
+      {
+        "value": "Klocki (w tym Lego)",
+        "label": "Klocki (w tym Lego) – człowiek konstruktorem światów 🙂"
+      },
+      {
+        "value": "Krzyżówki (jolki itp.)",
+        "label": "Krzyżówki (jolki itp.) – ciekawostka: autorką pierwszej jolki w Polsce była Maria Zagórska (lata 70.), tworząca pod pseudonimem… “Jolka”."
+      },
+      {
+        "value": "Mnemotechniki",
+        "label": "Mnemotechniki – jak w 2 minuty nauczyć się 2 wieków historii."
+      },
+      {
+        "value": "Puzzle",
+        "label": "Puzzle – największe puzzle, składające się z 551 232 części (o wymiarach 2,5×2,5 cm każda) ułożyli w 2011 roku wietnamscy studenci."
+      },
+      {
+        "value": "Szachy (warcaby)",
+        "label": "Szachy (warcaby) – to zadziwiające, że na planszy z 64 polami można rozegrać zaciekłe bitwy i wojny, w których nigdy jeszcze nie zginął żaden król. 😉"
+      },
+      {
+        "value": "Sztuczki magiczne (iluzja)",
+        "label": "Sztuczki magiczne (iluzja) – wyjmij z kapelusza królika, wypuść gołębia i wyczaruj kota w taki sposób by wszyscy byli przekonani, że stworzenia te mieszkają tam od dawna."
+      },
+      {
+        "value": "Zagadki matematyczne i/lub logiczne",
+        "label": "Zagadki matematyczne i/lub logiczne – “Na kartce są 3 domki i 3 firmy (doprowadzające wodę, prąd i gaz). Bez użycia trzeciego wymiaru i bez przechodzenia przez domki ani przez firmy, doprowadź wodę, prąd i gaz do każdego domku, tak aby linie się nie przecięły”. Powodzenia!"
+      },
+      {
+        "value": "Zabawki logiczne (układanki, np. kostka Rubika)",
+        "label": "Zabawki logiczne (układanki, np. kostka Rubika) – po wynalezieniu kostki Erno Rubik układał ją przez miesiąc aż nie złożył poprawnie całości."
+      }
+    ],
+    "theme": "Łamigłówki i układanki"
+  },
+  {
+    "data": [
+      {
+        "value": "Aktorstwo",
+        "label": "Aktorstwo – “zagraj piłkę plażową, kolor czerwony lub zsiadłe mleko” – to ponoć zadania dla zdających na studia aktorskie."
+      },
+      {
+        "value": "Cheerleading",
+        "label": "Cheerleading – występy w trakcie rozgrywek sportowych. Niby związane ze sportem, ale jednak bardziej z tańcem i rozrywką."
+      },
+      {
+        "value": "Conlanging (językotwórstwo)",
+        "label": "Conlanging (językotwórstwo) – św. Hildegardę z Bingen (XII wiek) uznaje się za twórczynię pierwszego sztucznego języka, który zwał się Lingua Ignota."
+      },
+      {
+        "value": "Cosplay",
+        "label": "Cosplay – zabawa w przebieranie się za fikcyjne postacie. Kim jesteś? No jak to? I’m Bond. James Bond!"
+      },
+      {
+        "value": "Czytanie (książek, blogów itd.)",
+        "label": "Czytanie (książek, blogów itd.) – jak to jest, że czytam stale, a książek do przeczytania wciąż przybywa? 🙂"
+      },
+      {
+        "value": "DJ (miksowanie muzyki)",
+        "label": "DJ (miksowanie muzyki) – czyli inaczej granie na… gramofonie."
+      },
+      {
+        "value": "Dyskoteki (i nocne życie)",
+        "label": "Dyskoteki (i nocne życie) – muza, taniec, drinki i późne powroty."
+      },
+      {
+        "value": "Dziennikarstwo (zbieranie, tworzenie wiadomości)",
+        "label": "Dziennikarstwo (zbieranie, tworzenie wiadomości) – wraz z rozwojem internetu pisać i pokazywać świat może każdy."
+      },
+      {
+        "value": "Esperanto",
+        "label": "Esperanto – sztuczny język, którym miała posługiwać się całą ludzkość. “Hobby” w języku esperanto to “ŝatokupo” lub “hobio”."
+      },
+      {
+        "value": "Fantastyka (tworzenie nowych światów)",
+        "label": "Fantastyka (tworzenie nowych światów) – zadanie: wyobraź sobie, jak mogłoby wyglądać życie na Ziemi, gdyby zamiast jednego roku obiegała ona Sońce w 10 000 dotychczasowych lat?"
+      },
+      {
+        "value": "Filmy i seriale (oglądanie)",
+        "label": "Filmy i seriale (oglądanie) – Widziałeś najnowszy odcinek serialu X? Nie, po co? Od 40 lat wystarczą mi “Gwiezdne Wojny”."
+      },
+      {
+        "value": "Graffiti",
+        "label": "Graffiti – twórczość malarska na ścianach (zewnętrznych). Byle za zgodą właściciela."
+      },
+      {
+        "value": "Instrumenty muzyczne (granie)",
+        "label": "Instrumenty muzyczne (granie) – od trójkąta w podstawówce po organy w kościele. Grać można też na… grzebieniu i kieliszkach – zobaczcie 🙂"
+      },
+      {
+        "value": "Kabaret, stand-up (tworzenie, oglądanie)",
+        "label": "Kabaret, stand-up (tworzenie, oglądanie) – dobrze, aby żart był na tyle zabawny i inteligentny, by pozostał na dużej w pamięci."
+      },
+      {
+        "value": "Karaoke",
+        "label": "Karaoke – śpiewanie dla frajdy, relaksu i rozbawienia znajomych."
+      },
+      {
+        "value": "Kolorowanki, mandale",
+        "label": "Kolorowanki, mandale – medytacja z ołówkiem w dłoni."
+      },
+      {
+        "value": "Komiksy (czytanie, tworzenie)",
+        "label": "Komiksy (czytanie, tworzenie) – rysunki z dymkami, nie tylko dla dzieci."
+      },
+      {
+        "value": "Koncerty",
+        "label": "Koncerty – doświadczenie muzyki na żywo."
+      },
+      {
+        "value": "Manga i anime",
+        "label": "Manga i anime – rysunek (manga) i film obrazkowy (anime) w specyficznym, japońskim stylu."
+      },
+      {
+        "value": "Muzea i galerie (odwiedzanie)",
+        "label": "Muzea i galerie (odwiedzanie) – Caravaggio w Wiedniu, mumie w Londynie i da Vinci w Krakowie."
+      },
+      {
+        "value": "Muzyka (komponowanie)",
+        "label": "Muzyka (komponowanie) – uszy pełne dźwięków, a głowa nut."
+      },
+      {
+        "value": "Muzyka (słuchanie, w tym audiofilstwo)",
+        "label": "Muzyka (słuchanie, w tym audiofilstwo) – słuchać tak, jakby każdy dźwięk był tym najważniejszym."
+      },
+      {
+        "value": "Pisanie (wierszy, książek, bloga itp.)",
+        "label": "Pisanie (wierszy, książek, bloga itp.) – najtrudniej jest napisać krótko, ale tak by od razu zostało w głowie. Spróbujcie 🙂"
+      },
+      {
+        "value": "Stepowanie",
+        "label": "Stepowanie – czyli męczące kroczki do rytmu."
+      },
+      {
+        "value": "Śpiew",
+        "label": "Śpiew – od chórów po hip-hop i od arii operowych po thrash metal."
+      },
+      {
+        "value": "Taniec",
+        "label": "Taniec – ruch, aktorstwo, magia – niesamowite, jak oni to robią!"
+      },
+      {
+        "value": "Teatr (chodzenie na spektakle)",
+        "label": "Teatr (chodzenie na spektakle) – opowieści słyszane i widziane na żywo."
+      }
+    ],
+    "theme": "Kulturalnie i rozrywkowo"
+  },
+  {
+    "data": [
+      {
+        "value": "Fryzjerstwo",
+        "label": "Fryzjerstwo – czesanie, strzyżenie, farbowanie i tysiące innych spraw o tajemniczych nazwach jak: balejaż, treski, flambojaż lub ondulacja."
+      },
+      {
+        "value": "Joga",
+        "label": "Joga – relaks, sprawność, kultura."
+      },
+      {
+        "value": "Makijaż",
+        "label": "Makijaż – malowanie twarzy, od dyskretnego podkreślenia zalet po zmianę emocji na obliczu."
+      },
+      {
+        "value": "Masaż",
+        "label": "Masaż – zdrowie, odpoczynek, regeneracja. Czasem może nieco zaboleć zanim przyniesie ulgę."
+      },
+      {
+        "value": "Medytacja",
+        "label": "Medytacja – wgląd w myśli lub ich tłumienie."
+      },
+      {
+        "value": "Moda",
+        "label": "Moda – pojęcie tak pojemne, jak mogłaby być (a zwykle nie jest) szafa fana i fanki mody!"
+      },
+      {
+        "value": "Morsowanie",
+        "label": "Morsowanie – “jakie okropnie przyjemne zimno w tej wodzie!”"
+      },
+      {
+        "value": "Paznokcie (manicure, pedicure)",
+        "label": "Paznokcie (manicure, pedicure) – dbałość o urodę “rogowej osłony ostatniego członu palca”."
+      },
+      {
+        "value": "Pielęgnacja ciała",
+        "label": "Pielęgnacja ciała – czyli kosmetyki od stóp do głów, na dzień i na noc. Dwa słowa o mydle – klik!"
+      },
+      {
+        "value": "Psychologia (na własny użytek)",
+        "label": "Psychologia (na własny użytek) – czasem wgląd w filozofię siebie, czasem tylko ogólniki z poradników-bestsellerów."
+      },
+      {
+        "value": "Relaksacja",
+        "label": "Relaksacja – od aromaterapii, przez zabiegi gorącymi kamieniami, po maseczki z czekolady lub musujące kule – przepis i wyjaśnienie jak to działa – klik!"
+      },
+      {
+        "value": "Świece (wyrób, kolekcjonowanie)",
+        "label": "Świece (wyrób, kolekcjonowanie) – światło, aromat, nastrój."
+      },
+      {
+        "value": "Zdrowe odżywianie (diety)",
+        "label": "Zdrowe odżywianie (diety) – temat-rzeka, pełen przejrzystych wód (np. samoograniczenia) po niebezpieczne wiry (np. nadmiar suplementów)."
+      }
+    ],
+    "theme": "Zdrowie, uroda i relaksujące kąpiele"
+  },
+  {
+    "data": [
+      {
+        "value": "Akwarystyka",
+        "label": "Akwarystyka – mogą być koralowce i zwierzęta morskie, mogą też ryby słodkowodne pośród bujnej roślinności."
+      },
+      {
+        "value": "Bonsai",
+        "label": "Bonsai – czyli z japońskiego – roślina w płaskim naczyniu. Odpowiednio kształtowana i pielęgnowana, tak by stworzyć rosnące dzieło sztuki."
+      },
+      {
+        "value": "Florystyka (także ikebana)",
+        "label": "Florystyka (także ikebana) – w nauce tak nazywa się… geografię rozmieszczenia roślin. Ale wśród hobbistów nazwa ta zastrzeżona jest do sztuki układania bukietów, także tych związanych z tradycją japońskich, kwietnych kompozycji, czyli z ikebaną."
+      },
+      {
+        "value": "Gołębie",
+        "label": "Gołębie – hodowali je podobno Picasso i Nikola Tesla, Robespierre i sułtan Egiptu Al-Muzaffar, Noriega dyktator Panamy i aktor Yul Brynner."
+      },
+      {
+        "value": "Gryzonie",
+        "label": "Gryzonie – myszki oraz szczury (i inne gryzonie) w klatkach, a nie te, żyjące samopas pod podłogą lub na strychu."
+      },
+      {
+        "value": "Grzybobranie",
+        "label": "Grzybobranie – hej ho, hej ho, na grzyby by się szło :). A najpiękniejsze kozaki spotkać można ponoć wśród brzóz."
+      },
+      {
+        "value": "Harcerstwo",
+        "label": "Harcerstwo – nierozerwalnie związane z przyrodą, ale też kształtowaniem charakteru."
+      },
+      {
+        "value": "Kot",
+        "label": "Kot – cóż dużo mówić, najmilejszy zwierzak w domu 😉"
+      },
+      {
+        "value": "Land art",
+        "label": "Land art – sztuka, której tłem i materiałem działania jest natura. Ingerując w krajobraz warto zawsze koncentrować się na tym, by go nie popsuć."
+      },
+      {
+        "value": "Obserwacje przyrody",
+        "label": "Obserwacje przyrody – nieodłącznie związane z wędrówkami, kamuflażem, wschodami słońca i… zachwytem (a często także fotografowaniem)."
+      },
+      {
+        "value": "Ogród i rośliny domowe",
+        "label": "Ogród i rośliny domowe – są ludzie, którzy godzinami potrafią wpatrywać się w nieruchome rośliny. Zerknijcie: Jak zabrać się za hodowlę roślin doniczkowych, Antysmogowe rośliny NASA, Nauka&hobby: ogród wertykalny, czyli rośliny na balkonie w pionie! oraz Kiedy rośliny pobierają tlen?"
+      },
+      {
+        "value": "Ornitologia",
+        "label": "Ornitologia – cicha i bezkrwawa “pogoń” za ptakami."
+      },
+      {
+        "value": "Pies",
+        "label": "Pies – cóż dużo mówić, najmilejszy zwierzak w domu 😉 O psach i właścicielach na naszym YT."
+      },
+      {
+        "value": "Psie zaprzęgi",
+        "label": "Psie zaprzęgi – wyprawy i wyścigi, na saniach lub pojazdem z kółkami."
+      },
+      {
+        "value": "Pszczelarstwo",
+        "label": "Pszczelarstwo – świat pszczół jest tak intrygujący, że warto przezwyciężyć lek przed użądleniem i zadać sobie pytanie: może własna pasieka? Co nieco o pszczołach – klik!"
+      },
+      {
+        "value": "Ptaki w domu",
+        "label": "Ptaki w domu – papużki i całkiem duże papugi, kanarki i słowiki, gwarki oraz ozdobne kury – w klatkach lub wolierach."
+      },
+      {
+        "value": "Sprzątanie przyrody",
+        "label": "Sprzątanie przyrody – weź worek, szpikulec do nabijania śmieci i spacerując wzdłuż leśnej drogi zabierz, co zostawiły osobniki tego samego gatunku (trudno uwierzyć, ale jednak), co Ty."
+      },
+      {
+        "value": "Terrarystyka",
+        "label": "Terrarystyka – płazy, gady i bezkręgowce buszujące w domach (najczęściej w terrariach)."
+      },
+      {
+        "value": "Wędkowanie",
+        "label": "Wędkowanie – dalekie wyprawy rybackim jachtem na morza tropikalne lub relaks z “kijem” nad rzeką tuż obok osiedla."
+      },
+      {
+        "value": "Zielniki",
+        "label": "Zielniki – zasuszone kolekcje roślin (najlepiej własnoręcznie zebranych) lub atlasy rycin z roślinami."
+      },
+      {
+        "value": "Zioła i rośliny jadalne (zbieranie w naturze)",
+        "label": "Zioła i rośliny jadalne (zbieranie w naturze) – powrót do czasów, gdy ludzie byli koczownikami-zbieraczami."
+      },
+      {
+        "value": "Zwierzęta gospodarskie",
+        "label": "Zwierzęta gospodarskie – własna koza, owca, może krowa lub koń – kochane i zadbane."
+      }
+    ],
+    "theme": "Naturalnie, że natura!"
+  },
+  {
+    "data": [
+      {
+        "value": "Baloniarstwo",
+        "label": "Baloniarstwo – podróże powietrzne w koszu podwieszonym do wielkiej dmuchanej kuli."
+      },
+      {
+        "value": "Couchsurfing",
+        "label": "Couchsurfing – Ty mnie przenocujesz w Hawanie, ja jego w Krakowie, on Ciebie w Hongkongu."
+      },
+      {
+        "value": "Geocaching",
+        "label": "Geocaching – gry terenowe z użyciem GPS i skrytek."
+      },
+      {
+        "value": "Kajaki",
+        "label": "Kajaki – wynalezione przez Inuitów w Arktyce, cieszą obecnie cały świat, umożliwiając transport i turystykę."
+      },
+      {
+        "value": "Kurorty i sanatoria",
+        "label": "Kurorty i sanatoria – wypoczynek i/lub leczenie, najczęściej w komfortowych (a nawet luksusowych) warunkach."
+      },
+      {
+        "value": "Lotnie (motolotnie itp.)",
+        "label": "Lotnie (motolotnie itp.) – szybujące skrzydła bezsilnikowe lub ze śmigłem (w wersji moto)."
+      },
+      {
+        "value": "Łowienie burz",
+        "label": "Łowienie burz – tak śledzić tornado, by się nie znaleźć w jego centrum."
+      },
+      {
+        "value": "Nordic walking",
+        "label": "Nordic walking – turystka piesza z kijkami, wymyślona 100 lat temu w Finlandii i znana tam pod trudną do wymówienia nazwą – Sauvakävely."
+      },
+      {
+        "value": "Oprowadzanie (przewodnik turystyczny)",
+        "label": "Oprowadzanie (przewodnik turystyczny) – po prawej Wyspiański, po lewej Wit Stwosz, a naprzeciwko dama… Dama z gronostajem."
+      },
+      {
+        "value": "Plażowanie",
+        "label": "Plażowanie – leżak, trawa, piasek, szum wody… 🙂"
+      },
+      {
+        "value": "Pociągi (kolejnictwo)",
+        "label": "Pociągi (kolejnictwo) – jeżdżenie koleją, połączone często z podziwianiem lokomotyw i wagonów."
+      },
+      {
+        "value": "Podróże (prawie) za darmo",
+        "label": "Podróże (prawie) za darmo – 10 dolarów w kieszeni i można objechać świat. Komunikatywność i otwartość na ludzi będą z pewnością przydatne."
+      },
+      {
+        "value": "Poszukiwania skarbów Ziemi (złota, bursztynów, kamieni szlachetnych)",
+        "label": "Poszukiwania skarbów Ziemi (złota, bursztynów, kamieni szlachetnych) – raczej sposób na aktywne spędzenie czasu niż wzbogacenie się. Chociaż… kto wie 🙂"
+      },
+      {
+        "value": "Rowery",
+        "label": "Rowery – Lewa w góre, a nie czekaj... nie to... w takim razie szukaj w dziale sportowym w decathlonie"
+      },
+      {
+        "value": "Safari",
+        "label": "Safari – podpatrywanie zwierząt w ich dzikim, tropikalnym środowisku. Wywodzi się z wypraw łowieckich w Afryce."
+      },
+      {
+        "value": "Samochodem i motocyklem (podróżowanie)",
+        "label": "Samochodem i motocyklem (podróżowanie) – szybko do celu lub wolniej, podziwiając mijany świat."
+      },
+      {
+        "value": "Samoloty (pilotowanie)",
+        "label": "Samoloty (pilotowanie) – wolant to w samolotach przyrząd do skręcania oraz regulowania wysokości lotu."
+      },
+      {
+        "value": "Spadochron (skoki)",
+        "label": "Spadochron (skoki) – zawsze ten element ryzyka: “a jak się nie otworzy?”"
+      },
+      {
+        "value": "Speleologia",
+        "label": "Speleologia – karkołomne wyprawy do jaskiń."
+      },
+      {
+        "value": "Statki wycieczkowe (rejsy)",
+        "label": "Statki wycieczkowe (rejsy) – zwodowany we wrześniu 2020 roku Wonder of Seas może przyjąć na swoich 18 pokładach 5000 pasażerów."
+      },
+      {
+        "value": "Survival (biwakowanie)",
+        "label": "Survival (biwakowanie) – tak urządzić się w przyrodzie, by przetrwać korzystając z jej zasobów."
+      },
+      {
+        "value": "Szybownictwo",
+        "label": "Szybownictwo – żeglowanie w powietrzu."
+      },
+      {
+        "value": "Turystyka ekstremalna (poszukiwanie skarbów, odkrywanie opuszczonych miejsc)",
+        "label": "Turystyka ekstremalna (poszukiwanie skarbów, odkrywanie opuszczonych miejsc) – np. do Czarnobyla lub na oderwaną od cywilizacji wyspę Sentinel."
+      },
+      {
+        "value": "Turystyka piesza (spacery)",
+        "label": "Turystyka piesza (spacery) – nie chodzi o dreptanie po centrum handlowym ;)."
+      },
+      {
+        "value": "Turystyka wysokogórska (alpinizm, himalaizm)",
+        "label": "Turystyka wysokogórska (alpinizm, himalaizm) – zdobywanie szczytów górskich i szczytów własnych możliwości."
+      },
+      {
+        "value": "Żeglowanie",
+        "label": "Żeglowanie – Kocham wiart we włosach, ale zapach ryby już nie koniecznie. “Navigare necesse est…” – “żeglowanie jest koniecznością”."
+      }
+    ],
+    "theme": "Podróże łatwe i ekstremalne!"
+  },
+  {
+    "data": [
+      {
+        "value": "Bieganie",
+        "label": "Bieganie – zaczęło się dawno temu od ucieczek i pogoni, a od 1868 stało się joggingiem w parkach i na bocznych drogach."
+      },
+      {
+        "value": "Bilard",
+        "label": "Bilard – manewrowanie kulami (bilami) przy pomocy specjalnego kija."
+      },
+      {
+        "value": "Bojery",
+        "label": "Bojery – czyli żeglarstwo na lodzie."
+      },
+      {
+        "value": "Bule i curling",
+        "label": "Bule i curling – trafianie w cel kulami lub toczącym się po lodzie kamieniem."
+      },
+      {
+        "value": "Bungee",
+        "label": "Bungee – skoki na elastycznej linie; z dźwigu, mostu, urwiska... Bądź 9 piętra"
+      },
+      {
+        "value": "Chodzenie po linie (slacklining)",
+        "label": "Chodzenie po linie (slacklining) – sztuka balansowania i wytrzymałości, także nerwowej."
+      },
+      {
+        "value": "Dart (rzutki)",
+        "label": "Dart (rzutki) – żeby wygrać nie zawsze trzeba trafiać lotką w sam środek tarczy."
+      },
+      {
+        "value": "Fitness i siłownia (także kulturystyka)",
+        "label": "Fitness i siłownia (także kulturystyka) – od bieżni i aerobiku po machanie ciężarami."
+      },
+      {
+        "value": "Frisbee (i ringo)",
+        "label": "Frisbee (i ringo) – rzucanie dyskiem (lub gumowym torusem) tak by druga osoba złapała go (zabawa) lub nie złapała (zawody)."
+      },
+      {
+        "value": "Gimnastyka (i akrobatyka)",
+        "label": "Gimnastyka (i akrobatyka) – od sportowego wywijania na równoważni po akrobatyczne skoki na trampolinie i taniec na rurze."
+      },
+      {
+        "value": "Golf",
+        "label": "Golf – kierowanie małej piłeczki do dołków, a przy okazji spacerowanie po wielohektarowych parkach – polach golfowych."
+      },
+      {
+        "value": "Hokej",
+        "label": "Hokej – na lodzie, na trawie lub na rolkach."
+      },
+      {
+        "value": "Jazda konna",
+        "label": "Jazda konna – ok. 3,5 tys. lat p.n.e. ludzie udomowili konie i jeżdżą!"
+      },
+      {
+        "value": "Jazda na małych kółkach",
+        "label": "Jazda na małych kółkach – na rolkach, deskorolkach, wrotkach i wszelkich pokrewnych."
+      },
+      {
+        "value": "Kręgle (bowling)",
+        "label": "Kręgle (bowling) – kula do kręgli strąca ważące około 1,5 kg piony (czyli kręgle)."
+      },
+      {
+        "value": "Lekkoatletyka",
+        "label": "Lekkoatletyka – czyli w uproszczeniu: skoki (np. wzwyż), rzuty (np. dyskiem) i biegi (np. z przeszkodami)"
+      },
+      {
+        "value": "Loty w tunelu aerodynamicznym (flyspot)",
+        "label": "Loty w tunelu aerodynamicznym (flyspot) – swobodne unoszenie się, dzięki silnym strugom powietrza."
+      },
+      {
+        "value": "Łucznictwo",
+        "label": "Łucznictwo – strzał w dziesiątke, a może poprostu jest w tym coś pradawnego i mitologicznego."
+      },
+      {
+        "value": "Łyżwy",
+        "label": "Łyżwy – po lodzie tanecznie lub na czas."
+      },
+      {
+        "value": "Narty (i snowboard, i skitour)",
+        "label": "Narty (i snowboard, i skitour) – z góry, pod górę, na dwóch deskach lub jednej, za to szerokiej."
+      },
+      {
+        "value": "Parkour",
+        "label": "Parkour – jak najszybciej i najefektowniej pokonać najdziwniejsze przeszkody – rywalizacja często odbywa się w przestrzeni miasta."
+      },
+      {
+        "value": "Paintball",
+        "label": "Paintball – zabawa w wojsko i wojowanie."
+      },
+      {
+        "value": "Podnoszenie ciężarów",
+        "label": "Podnoszenie ciężarów – proste zasady: kto udźwignie więcej – wygrywa."
+      },
+      {
+        "value": "Rower",
+        "label": "Rower – niby dwa kółka i kilka dodatków, a ile frajdy 🙂"
+      },
+      {
+        "value": "Sanki",
+        "label": "Sanki – na dwóch płozach i z górki."
+      },
+      {
+        "value": "Siłowanie na rękę (armwrestling)",
+        "label": "Siłowanie na rękę (armwrestling) – muskuły napięte, pot na skroniach, zaciśnięte usta. Kto kogo?"
+      },
+      {
+        "value": "Sporty drużynowe",
+        "label": "Sporty drużynowe – podania, wsady, zbicia, przechwyty, gole i serwisy; siatkówka, koszykówka, korfball, lacrosse, krykiet, bejsbol, rugby, aha…i jeszcze piłka nożna."
+      },
+      {
+        "value": "Sporty motorowe",
+        "label": "Sporty motorowe – gokarty, rajdy terenowe, motocross, wyścigi na torze i na żużlu – i pewnie jeszcze ze 100 innych opcji."
+      },
+      {
+        "value": "Sporty rakietkowe",
+        "label": "Sporty rakietkowe – tenis dużą rakietą lub małą (ping-pong), także badminton i squash."
+      },
+      {
+        "value": "Sporty walki",
+        "label": "Sporty walki – okładanie się pięściami (w rękawicach), przewracanie, przyciskanie, popychanie, kopanie itd."
+      },
+      {
+        "value": "Sporty wodne",
+        "label": "Sporty wodne – od taplania się w basenie po wyprawę kajakiem przez ocean. A w międzyczasie jeszcze nurkowanie, surfing i żeglarstwo."
+      },
+      {
+        "value": "Strongman",
+        "label": "Strongman – spacer farmera z żelaznymi walizkami, ciągnięcie lokomotywy lub podrzucanie wielkiego pala."
+      },
+      {
+        "value": "Strzelectwo sportowe",
+        "label": "Strzelectwo sportowe – do celu z broni palnej lub pneumatycznej."
+      },
+      {
+        "value": "Szermierka",
+        "label": "Szermierka – floret, szpada i szabla. Trafiony!"
+      },
+      {
+        "value": "Sztuki walki",
+        "label": "Sztuki walki – nie tylko dalekowschodnie, ale także np. brazylijskie (capoeira) czy izraelskie (krav-maga)."
+      },
+      {
+        "value": "Timbersport",
+        "label": "Timbersport – piłowanie, machanie siekierą i inne siłowe prace “w drewnie” na czas."
+      },
+      {
+        "value": "Wspinaczka",
+        "label": "Wspinaczka – na skałkach lub sztucznej ściance. Jak to robić zgodnie z fizyką – zobaczcie na naszym YT."
+      },
+      {
+        "value": "Zorbing",
+        "label": "Zorbing – wchodzisz do przezroczystej kuli i… się turlasz."
+      },
+      {
+        "value": "Żonglowanie",
+        "label": "Żonglowanie – piłeczkami, ale też płonącymi pochodniami."
+      }
+    ],
+    "theme": "Szybciej, wyżej, dalej!"
+  }
+]

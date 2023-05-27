@@ -1,0 +1,124 @@
+
+
+.animBG{
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to left, #c200fb, #ec0868, #c200fb);
+  transition: background 1s ease;
+  background-size:200%;  
+
+}
+.animBG:hover{
+  background-position:130%;  
+}
+
+.odometer.odometer-auto-theme.odometer-animating-up .odometer-ribbon-inner, 
+.odometer.odometer-theme-minimal.odometer-animating-up .odometer-ribbon-inner,
+.odometer.odometer-auto-theme.odometer-animating-down.odometer-animating .odometer-ribbon-inner, .odometer.odometer-theme-minimal.odometer-animating-down.odometer-animating 
+.odometer-ribbon-inner {
+  -webkit-transition-duration: 1s !important;
+  -moz-transition-duration: 1s !important;
+  -ms-transition-duration: 1s !important;
+  -o-transition-duration: 1s !important;
+  transition-duration: 1s !important
+}
+
+.positionPicker {
+  position: relative;
+  background: linear-gradient(90deg, var(--chakra-colors-pink-500), rgb(0, 217, 255));
+}
+.positionPicker:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-mask-image: linear-gradient(to bottom, transparent, black);
+            mask-image: linear-gradient(to bottom, transparent, black);
+    background: linear-gradient(90deg, white, #5800fb);  
+  }
+
+  .flexMobile{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  @media only screen and (max-width: 600px) { 
+    .flexMobile{
+      flex-direction: column;
+    }
+  }
+
+  .hideScroll{
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+  }
+  .hideScroll::-webkit-scrollbar {
+  display: none;
+}
+.attention{
+    animation: color-change 8s infinite;
+}
+
+@keyframes color-change {
+  0% { background-color: var(--badge-bg); }
+  50% { background-color: var(--chakra-colors-green-400); }
+  100% { background-color: var(--badge-bg); }
+}
+
+.squareContainer{
+  width: 100%;
+  height: 100%;
+}
+.square{
+  position:absolute;
+  width: 100px;
+  aspect-ratio: 1;
+  border: 5px solid #c200fb;
+  box-shadow: 0px 0px 30px #c200fb;
+}
+.square:nth-child(1){
+  animation: box1 40s alternate infinite ease-in-out;
+  border-radius: 29px;
+}
+.square:nth-child(2){
+  animation: box2 13s alternate infinite ease-in-out;
+  border-radius: 29px;
+}
+.square:nth-child(3){
+  animation: box3 32s alternate infinite ease-in-out;
+  border-radius: 29px;
+}
+
+@keyframes box1 {
+  0% {
+    transform: translate(20vw, 30vh) rotate(0) scale(2);
+  }
+  100% {
+    transform: translate(30vw, 40vh) rotate(20deg) scale(3);
+  }
+}
+
+@keyframes box2 {
+  0% {
+    transform: translate(32vw, 8vh) rotate(35deg);
+  }
+  100% {
+    transform: translate(30vw, 10vh) rotate(30deg);
+  }
+}
+
+@keyframes box3 {
+  0% {
+    transform: translate(5vw, 12vh) rotate(0) scale(2);
+  }
+  100% {
+    transform: translate(3vw, 26vh) rotate(32deg) scale(2);
+  }
+}
+
+@media screen and (max-width: 1000px) {
+ .square{
+  display: none;
+ } 
+}

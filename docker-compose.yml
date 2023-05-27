@@ -1,0 +1,43 @@
+services:
+  frontend:
+    build:
+      context: ./
+    ports:
+      - "3000:3000"
+    environment:
+      PUBLIC_SERVER_URL: 
+      PORT: 3000
+      SECRET_KEY: 
+      MONGO_URL: "mongodb://mongo/blind_dating"
+      REDIS_URL: "redis://redis/"
+      SRP_URL: "http://srp:6530/"
+      DISCORD_ID: 
+      DISCORD_SECRET: 
+      DISCORD_BOT: 
+      NEXT_HANDLE_ERRORS: true
+      TRAINING_MODE: false
+      PUBLIC_VAPID_KEY: 
+      PRIVATE_VAPID_KEY: 
+      AI_URL: http://127.0.0.1:4000
+    depends_on:
+      - "mongo"
+      - "redis"
+      - "srp"
+  mongo:
+    image: mongo
+    restart: always
+    volumes:
+      # - ./mongo:/data/db
+    ports:
+      - 27017:27017
+  redis:
+    image: redis
+    restart: always
+    ports:
+      - 6379:6379
+  srp:
+    image: srp
+    build: https://github.com/PiRifle/srpService.git
+    restart: always
+    ports:
+      - 6530:6530
